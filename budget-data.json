@@ -1,0 +1,12 @@
+{
+  "myBudget": [
+    {"title": "Movie", "budget": 25},
+    {"title": "Car", "budget": 25},
+    {"title": "Food", "budget": 100},
+    {"title": "Hike", "budget": 12},
+    {"title": "Outing", "budget": 10},
+    {"title": "Medicine", "budget": 80},
+    {"title": "Shopping", "budget": 30},
+    {"title": "Stocks", "budget": 20}
+  ]
+}
