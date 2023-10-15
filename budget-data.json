@@ -1,12 +1,48 @@
 {
   "myBudget": [
-    {"title": "Movie", "budget": 25},
-    {"title": "Car", "budget": 25},
-    {"title": "Food", "budget": 100},
-    {"title": "Hike", "budget": 12},
-    {"title": "Outing", "budget": 10},
-    {"title": "Medicine", "budget": 80},
-    {"title": "Shopping", "budget": 30},
-    {"title": "Stocks", "budget": 20}
+    {
+      "title": "Movie",
+      "budget": 25,
+      "color": "#ffcd56"
+    },
+
+  
+    {
+      "title": "Car",
+      "budget": 25,
+      "color": "#ff6384"
+      
+    },
+    {
+      "title": "Food",
+      "budget": 100,
+      "color": "#36a2eb"
+    },
+    {
+      "title": "Hike",
+      "budget": 12,
+      "color": "#fd6b19"
+    },
+    {
+      "title": "Outing",
+      "budget": 10,
+      "color": "#283747"
+    },
+    {
+      "title": "Medicine",
+      "budget": 80,
+      "color": "#7D3C98"
+    },
+    {
+      "title": "Shopping",
+      "budget": 30,
+      "color": "#FA0404"
+    },
+    {
+      "title": "Stocks",
+      "budget": 20,
+      "color": "#2ECC71"
+    }
+   
   ]
 }
